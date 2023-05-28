@@ -1,4 +1,6 @@
 # Clustering-Analysis-KMeans-vs-Agglomerative-Clustering-for-Large-Datasets
+<img width="1354" alt="ss_main_Clustering-Analysis-KMeans-vs-Agglomerative-Clustering-for-Large-Datasets" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/084f82f2-b93d-4b07-8f12-bc83164292b3">
+
 
 ---
 **Author Name :** Shreyansh Padarha<br>
