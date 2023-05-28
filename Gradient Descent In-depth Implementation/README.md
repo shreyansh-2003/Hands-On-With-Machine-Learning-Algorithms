@@ -1,11 +1,10 @@
 # Explainable AI:  Using Multiple Linear Regression Gradient Descent (GD) to understand complicated models
-
 ---
 __Author Name : Shreyansh Padarha__<br>
 __Email : mailto:shreyansh.padarha@hotmail.com__<br>
 
 ---
->## Objectives  
+> # Introduction 
 
 This notebook aims as following and implementing the underlying tasks below:
 
