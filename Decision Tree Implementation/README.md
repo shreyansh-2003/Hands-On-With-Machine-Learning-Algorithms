@@ -1,4 +1,5 @@
 # Implementing Decision Trees
+<img width="1287" alt="ss_main_Decision Tree Implementation" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/d54fe37b-357b-47a1-865f-2756add1d1d7">
 
 ---
 __Author Name : Shreyansh Padarha__<br>
