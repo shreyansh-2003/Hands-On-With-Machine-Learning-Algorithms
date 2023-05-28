@@ -1,6 +1,7 @@
 # Hardcoding Evaluation Metrics 
----
+<img width="1098" alt="ss_main_Hardcoding Evaluation Metrics" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/e9da683c-3646-45c5-bc57-5ab289a05031">
 
+---
 __Author Name : Shreyansh Padarha__<br>
 __Email : mailto:shreyansh.padarha@hotmail.com__
 
