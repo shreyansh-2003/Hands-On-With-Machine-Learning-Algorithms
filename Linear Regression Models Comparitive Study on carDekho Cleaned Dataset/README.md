@@ -175,6 +175,10 @@ The price of the car is heavily dependent on the age of the car and has weak neg
 
 
 The highest accuracy score achieved in linear regression using the SKLearn library is 0.4928 with nine features and excluding the 'Automatic' feature. The optimum feature count for the SKLearn library ranges from 8 to 10, and the most critical features are age of the car and odometer.
+
+<img width="1005" alt="image" src="https://github.com/shreyansh-2003/Hands-on-ML/assets/105413094/23448d3c-cc91-4fd4-9a7c-30a7150a107d">
+
+
 The highest accuracy score achieved in linear regression using the statsmodels library is 0.456451 with ten features and none excluded. The optimum feature count for the statsmodels library ranges from 8 to 10, and the feature that is generally excluded is 'Automatic.'
 
 __Comparing the libraries and their models (specific to this dataset)__
@@ -212,3 +216,11 @@ From a coding POV, I made use of as many user-defined functions as I could, and 
 | __Objective 5__ (Comparing LR Model Results) | __Completed__ |
 
 ---
+
+> # Sample Notebook Output Screenshots
+
+<img width="987" alt="image" src="https://github.com/shreyansh-2003/Hands-on-ML/assets/105413094/30d7d70b-c2fd-4554-8b10-d67a09ef6a6e">
+
+<br>
+
+<img width="985" alt="image" src="https://github.com/shreyansh-2003/Hands-on-ML/assets/105413094/66da4722-2276-45e4-bd2a-e611d63c8ecf">
