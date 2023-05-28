@@ -179,6 +179,3 @@ __Extra:__ I discovered ressidual distribution and QQ plots, for comparing model
 
 ![image](https://github.com/shreyansh-2003/Hands-on-ML/assets/105413094/2a850cdd-01b3-4d1e-bab9-810ec3cbcf46)
 
-![Screenshot 2023-05-28 at 8 17 37 PM](https://github.com/shreyansh-2003/Hands-on-ML/assets/105413094/b482c682-fec9-4c93-9a85-c8672daab415)
-
-
