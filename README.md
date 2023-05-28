@@ -21,9 +21,14 @@ __Coverage__
 
 ![image](https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/11121bb9-a799-4aa6-b241-da51f1e47763)
 
+__NOTE__<br>
+Please refer to each lab's individual markdown files for a more detailed explanation of the objectives, methods, and algorithms used. You will find code implementations, visualizations, and insights that will help you understand and explore different machine learning algorithms.
+
+Feel free to explore and experiment with these labs to deepen your understanding of machine learning algorithms and their applications!ˇ
+
 ---
 > # Directories And Algorithms
-Given below are the directories within the repository with their different objectives and sample output screenshots.
+Given below are the directories within the repository with their different objectives and sample output screenshotsin "brief".
 
 ---
 
