@@ -46,6 +46,8 @@ This lab aims to analyze the effectiveness of clustering algorithms in simplifyi
 
 __Sample Output Screenshots__<br>
 
+<img width="1354" alt="ss_main_Clustering-Analysis-KMeans-vs-Agglomerative-Clustering-for-Large-Datasets" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/df84cf48-2dcb-42ad-8b49-2e693b3b10e2">
+
 ---
 > ## Creating Preprocessing:Evaluation Metrics From Scratch
 __Brief__<br>
@@ -62,6 +64,8 @@ This lab focuses on understanding and implementing common preprocessing techniqu
 - Performing additional tasks such as finding percentiles in a dataset, analyzing the impact of dataset size on - regression evaluation metrics, and exploring the relationship between squared Pearson correlation coefficient and R2 value.
 
 __Sample Output Screenshots__<br>
+<img width="1343" alt="ss_main_Creating Preprocessing:Evaluation Metrics From Scratch" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/886b1f58-5ec1-47e5-a530-e0d6ddcf46f6">
+
 
 ---
 > ## Customer Churn Analysis for Improving Customer Retention
@@ -74,6 +78,8 @@ In this lab, the focus is on customer segmentation and analysis to optimize mark
 
 __Sample Output Screenshots__<br>
 
+<img width="1308" alt="ss_main_Customer Churn Analysis for Improving Customer Retention" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/84918f38-5e49-4c28-86d6-e7032b828bfd">
+
 ---
 > ## Data Preperation, EDA and Feature Engineering for ML Solutions
 __Brief__<br>
@@ -85,6 +91,7 @@ This lab involves using a webscraped dataset from carDekho to perform explorator
 - Preparing the dataset for applying a linear regression model.
 
 __Sample Output Screenshots__<br>
+<img width="1387" alt="ss_main_Data Preperation, EDA and Feature Engineering for ML Solutions" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/9b7ae898-79f3-4164-9dd2-48814b260ad1">
 
 ---
 > ## Decision Tree Implementation
@@ -94,6 +101,7 @@ This lab focuses on implementing decision tree classifiers using Sklearn's Decis
 - Commenting on the accuracy of the model and the impact of different parameters.
 - Comparing the results with a Dummy Classifier using different parameters.
 __Sample Output Screenshots__<br>
+<img width="1287" alt="ss_main_Decision Tree Implementation" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/6af7d91f-03f3-4c17-b38e-150dc0858a15">
 
 ---
 > ## Gradient Descent In-depth Implementation
@@ -106,6 +114,7 @@ This lab dives into the implementation of linear regression using gradient desce
 
 __Sample Output Screenshots__<br>
 
+<img width="1253" alt="ss_main_Gradiend Descent In-depth Implementation" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/01a53253-e79a-402e-8589-ae3675bdf568">
 
 ---
 > ## Hardcoding Evaluation Metrics
@@ -119,6 +128,8 @@ In this lab, you will find a comprehensive implementation of evaluation metrics 
 
 __Sample Output Screenshots__<br>
 
+<img width="1098" alt="ss_main_Hardcoding Evaluation Metrics" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/ddce2a5d-dd15-4282-9747-3c1a58e59c3f">
+
 ---
 > ## Linear Regression Models Comparitive Study on carDekho Cleaned Dataset
 __Brief__<br>
@@ -130,6 +141,8 @@ This lab focuses on a comparative study of linear regression models using the ca
 - Predicting car prices using the best model
 
 __Sample Output Screenshots__<br>
+<img width="1232" alt="ss_main_Linear Regression Models Comparitive Study on carDekho Cleaned Dataset" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/d80afd2d-21ca-46e9-bc3f-5f04028d05ad">
+
 
 ---
 > ## Logist Regression and SVM
@@ -141,5 +154,6 @@ In this lab, we delve into the world of logistic regression and support vector m
 - Evaluating the impact of applied transformations on the classification results
 
 __Sample Output Screenshots__<br>
+<img width="1268" alt="ss_main_Logist Regression and SVM" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/68240d07-804f-4fd2-b323-ac3885b79dd5">
 
 ---
