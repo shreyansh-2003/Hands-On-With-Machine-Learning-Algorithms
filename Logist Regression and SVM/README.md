@@ -1,4 +1,7 @@
 # Logistic Regression and SVM (Support Vecor Machines)
+
+<img width="1268" alt="ss_main_Logist Regression and SVM" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/c14faa32-94e1-4a63-857c-acb656a4a744">
+
 ---
 __Author Name : Shreyansh Padarha__<br>
 __Email : mailto:shreyansh.padarha@hotmail.com__
