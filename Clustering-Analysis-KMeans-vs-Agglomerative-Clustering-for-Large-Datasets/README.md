@@ -10,7 +10,8 @@
 ># Introduction
 
 This notebook explores KMeans and Agglomerative Clustering effectiveness in simplifying large datasets for ML. Goals include dataset download, finding optimal clusters via Elbow and Silhouette methods, comparing clustering techniques, validating optimal clusters, tuning hyperparameters. Detailed explanations and analysis are provided.
-    
+
+---
 > # Problem Statement 
 
 To critically analyse the effectiveness of clustering in simplifying large datasets for machine learning, this lab aims to compare KMeans and Agglomerative Clustering algorithms and evaluate their performance against a classification algorithm.
@@ -27,20 +28,6 @@ To critically analyse the effectiveness of clustering in simplifying large datas
 - To Find what hyperparameters are suitable in Agglomerative Clustering (n_clusters, metric, linkage)
 - To Plot Hierarchical Clustering (Dendrogram) [Source]
 - To Compare the better clustering algorithm with any classification algorithm, and write notes on the same.
-
----
-> # Sample Notebook Output Screenshots
-
-![image](https://github.com/shreyansh-2003/Clustering-Analysis-KMeans-vs-Agglomerative-Clustering-for-Large-Datasets/assets/105413094/2576cee8-8f04-4a5e-a700-3575a55f7f72)
-
-<br>
-
-![image](https://github.com/shreyansh-2003/Clustering-Analysis-KMeans-vs-Agglomerative-Clustering-for-Large-Datasets/assets/105413094/30e54dc9-75cb-4430-a74e-4fbac779cfcb)
- 
-
-<br>
-
-![image](https://github.com/shreyansh-2003/Clustering-Analysis-KMeans-vs-Agglomerative-Clustering-for-Large-Datasets/assets/105413094/492e7b74-782b-4aa5-a797-7c489b69912a)
 
 
 ----
@@ -305,7 +292,21 @@ Overall, these observations suggest that KMeans clustering performs better than 
 This lab gave me valuable insights into how unsupervised learning can be utilised for classifying datasets into clusters without labels. There were also the usual, bugging-debugging conundrums which made my logical reasoning stronger. It also made me realise that, understanding an Unsupervised learning's accuracy or precision is extremely difficult, as there are no target values to compare with. In such a situation, knowledge about the domain, one is working in becomes critical.
 
 ---
+> # Sample Notebook Output Screenshots
 
+![image](https://github.com/shreyansh-2003/Clustering-Analysis-KMeans-vs-Agglomerative-Clustering-for-Large-Datasets/assets/105413094/2576cee8-8f04-4a5e-a700-3575a55f7f72)
+
+<br>
+
+![image](https://github.com/shreyansh-2003/Clustering-Analysis-KMeans-vs-Agglomerative-Clustering-for-Large-Datasets/assets/105413094/30e54dc9-75cb-4430-a74e-4fbac779cfcb)
+ 
+
+<br>
+
+![image](https://github.com/shreyansh-2003/Clustering-Analysis-KMeans-vs-Agglomerative-Clustering-for-Large-Datasets/assets/105413094/492e7b74-782b-4aa5-a797-7c489b69912a)
+
+
+---
 > # References
 
 Car Evaluation Dataset: https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
