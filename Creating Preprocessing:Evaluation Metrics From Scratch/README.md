@@ -1,5 +1,7 @@
 
 # Creating Preprocessing/Evaluation Metrics From Scratch
+<img width="1343" alt="ss_main_Creating Preprocessing:Evaluation Metrics From Scratch" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/4bffc5b4-950a-4c3f-a2a4-20a2f4e324ef">
+
 ---
 __Author Name : Shreyansh Padarha__<br>
 __Email : mailto:shreyansh.padarha@hotmail.com__
