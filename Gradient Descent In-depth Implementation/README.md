@@ -1,4 +1,7 @@
 # Explainable AI:  Using Multiple Linear Regression Gradient Descent (GD) to understand complicated models
+
+<img width="1253" alt="ss_main_Gradiend Descent In-depth Implementation" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/c525f6df-1157-4d23-83ed-28d6e6d7d33f">
+
 ---
 __Author Name : Shreyansh Padarha__<br>
 __Email : mailto:shreyansh.padarha@hotmail.com__<br>
