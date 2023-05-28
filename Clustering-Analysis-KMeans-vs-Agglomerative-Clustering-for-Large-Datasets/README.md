@@ -7,7 +7,7 @@
 
 ># Introduction
 
-This repo explores KMeans and Agglomerative Clustering effectiveness in simplifying large datasets for ML. Goals include dataset download, finding optimal clusters via Elbow and Silhouette methods, comparing clustering techniques, validating optimal clusters, tuning hyperparameters. Detailed explanations and analysis are provided.
+This notebook explores KMeans and Agglomerative Clustering effectiveness in simplifying large datasets for ML. Goals include dataset download, finding optimal clusters via Elbow and Silhouette methods, comparing clustering techniques, validating optimal clusters, tuning hyperparameters. Detailed explanations and analysis are provided.
     
 > # Problem Statement 
 
