@@ -1,0 +1,109 @@
+,Dataset,Training Size,Testing Size,Kernel,C,Accuracy Score
+0,BinClass,65 %,35 %,linear,0.1,0.8723809523809524
+1,BinClass Min Max Scalled,65 %,35 %,linear,0.1,0.8533333333333334
+2,BinClass Standard Scalled,65 %,35 %,linear,0.1,0.8742857142857143
+3,MultiClass,65 %,35 %,linear,0.1,0.4942857142857143
+4,MultiClass Min Max Scalled,65 %,35 %,linear,0.1,0.5
+5,MultiClass Standard Scalled,65 %,35 %,linear,0.1,0.49942857142857144
+6,BinClass,65 %,35 %,poly,0.1,0.8790476190476191
+7,BinClass Min Max Scalled,65 %,35 %,poly,0.1,0.8304761904761905
+8,BinClass Standard Scalled,65 %,35 %,poly,0.1,0.9019047619047619
+9,MultiClass,65 %,35 %,poly,0.1,0.6108571428571429
+10,MultiClass Min Max Scalled,65 %,35 %,poly,0.1,0.6257142857142857
+11,MultiClass Standard Scalled,65 %,35 %,poly,0.1,0.6074285714285714
+12,BinClass,65 %,35 %,sigmoid,0.1,0.7952380952380952
+13,BinClass Min Max Scalled,65 %,35 %,sigmoid,0.1,0.6666666666666666
+14,BinClass Standard Scalled,65 %,35 %,sigmoid,0.1,0.819047619047619
+15,MultiClass,65 %,35 %,sigmoid,0.1,0.3931428571428571
+16,MultiClass Min Max Scalled,65 %,35 %,sigmoid,0.1,0.38
+17,MultiClass Standard Scalled,65 %,35 %,sigmoid,0.1,0.3811428571428571
+18,BinClass,65 %,35 %,linear,1.0,0.8742857142857143
+19,BinClass Min Max Scalled,65 %,35 %,linear,1.0,0.8714285714285714
+20,BinClass Standard Scalled,65 %,35 %,linear,1.0,0.8742857142857143
+21,MultiClass,65 %,35 %,linear,1.0,0.496
+22,MultiClass Min Max Scalled,65 %,35 %,linear,1.0,0.4948571428571429
+23,MultiClass Standard Scalled,65 %,35 %,linear,1.0,0.4942857142857143
+24,BinClass,65 %,35 %,poly,1.0,0.9285714285714286
+25,BinClass Min Max Scalled,65 %,35 %,poly,1.0,0.8971428571428571
+26,BinClass Standard Scalled,65 %,35 %,poly,1.0,0.9380952380952381
+27,MultiClass,65 %,35 %,poly,1.0,0.7697142857142857
+28,MultiClass Min Max Scalled,65 %,35 %,poly,1.0,0.7657142857142857
+29,MultiClass Standard Scalled,65 %,35 %,poly,1.0,0.7165714285714285
+30,BinClass,65 %,35 %,sigmoid,1.0,0.7361904761904762
+31,BinClass Min Max Scalled,65 %,35 %,sigmoid,1.0,0.621904761904762
+32,BinClass Standard Scalled,65 %,35 %,sigmoid,1.0,0.7238095238095238
+33,MultiClass,65 %,35 %,sigmoid,1.0,0.30057142857142854
+34,MultiClass Min Max Scalled,65 %,35 %,sigmoid,1.0,0.2777142857142857
+35,MultiClass Standard Scalled,65 %,35 %,sigmoid,1.0,0.28514285714285714
+36,BinClass,65 %,35 %,linear,10.0,0.8742857142857143
+37,BinClass Min Max Scalled,65 %,35 %,linear,10.0,0.8733333333333333
+38,BinClass Standard Scalled,65 %,35 %,linear,10.0,0.8742857142857143
+39,MultiClass,65 %,35 %,linear,10.0,0.496
+40,MultiClass Min Max Scalled,65 %,35 %,linear,10.0,0.496
+41,MultiClass Standard Scalled,65 %,35 %,linear,10.0,0.49657142857142855
+42,BinClass,65 %,35 %,poly,10.0,0.939047619047619
+43,BinClass Min Max Scalled,65 %,35 %,poly,10.0,0.9276190476190476
+44,BinClass Standard Scalled,65 %,35 %,poly,10.0,0.9514285714285714
+45,MultiClass,65 %,35 %,poly,10.0,0.8062857142857143
+46,MultiClass Min Max Scalled,65 %,35 %,poly,10.0,0.8137142857142857
+47,MultiClass Standard Scalled,65 %,35 %,poly,10.0,0.7502857142857143
+48,BinClass,65 %,35 %,sigmoid,10.0,0.7323809523809524
+49,BinClass Min Max Scalled,65 %,35 %,sigmoid,10.0,0.6180952380952381
+50,BinClass Standard Scalled,65 %,35 %,sigmoid,10.0,0.719047619047619
+51,MultiClass,65 %,35 %,sigmoid,10.0,0.2897142857142857
+52,MultiClass Min Max Scalled,65 %,35 %,sigmoid,10.0,0.2737142857142857
+53,MultiClass Standard Scalled,65 %,35 %,sigmoid,10.0,0.2834285714285714
+54,BinClass,80 %,20 %,linear,0.1,0.8566666666666667
+55,BinClass Min Max Scalled,80 %,20 %,linear,0.1,0.84
+56,BinClass Standard Scalled,80 %,20 %,linear,0.1,0.8583333333333333
+57,MultiClass,80 %,20 %,linear,0.1,0.508
+58,MultiClass Min Max Scalled,80 %,20 %,linear,0.1,0.51
+59,MultiClass Standard Scalled,80 %,20 %,linear,0.1,0.509
+60,BinClass,80 %,20 %,poly,0.1,0.89
+61,BinClass Min Max Scalled,80 %,20 %,poly,0.1,0.8616666666666667
+62,BinClass Standard Scalled,80 %,20 %,poly,0.1,0.9166666666666666
+63,MultiClass,80 %,20 %,poly,0.1,0.645
+64,MultiClass Min Max Scalled,80 %,20 %,poly,0.1,0.655
+65,MultiClass Standard Scalled,80 %,20 %,poly,0.1,0.623
+66,BinClass,80 %,20 %,sigmoid,0.1,0.7683333333333333
+67,BinClass Min Max Scalled,80 %,20 %,sigmoid,0.1,0.6383333333333333
+68,BinClass Standard Scalled,80 %,20 %,sigmoid,0.1,0.7483333333333333
+69,MultiClass,80 %,20 %,sigmoid,0.1,0.395
+70,MultiClass Min Max Scalled,80 %,20 %,sigmoid,0.1,0.369
+71,MultiClass Standard Scalled,80 %,20 %,sigmoid,0.1,0.373
+72,BinClass,80 %,20 %,linear,1.0,0.855
+73,BinClass Min Max Scalled,80 %,20 %,linear,1.0,0.855
+74,BinClass Standard Scalled,80 %,20 %,linear,1.0,0.8566666666666667
+75,MultiClass,80 %,20 %,linear,1.0,0.511
+76,MultiClass Min Max Scalled,80 %,20 %,linear,1.0,0.51
+77,MultiClass Standard Scalled,80 %,20 %,linear,1.0,0.511
+78,BinClass,80 %,20 %,poly,1.0,0.94
+79,BinClass Min Max Scalled,80 %,20 %,poly,1.0,0.9
+80,BinClass Standard Scalled,80 %,20 %,poly,1.0,0.945
+81,MultiClass,80 %,20 %,poly,1.0,0.797
+82,MultiClass Min Max Scalled,80 %,20 %,poly,1.0,0.793
+83,MultiClass Standard Scalled,80 %,20 %,poly,1.0,0.744
+84,BinClass,80 %,20 %,sigmoid,1.0,0.7333333333333333
+85,BinClass Min Max Scalled,80 %,20 %,sigmoid,1.0,0.6016666666666667
+86,BinClass Standard Scalled,80 %,20 %,sigmoid,1.0,0.705
+87,MultiClass,80 %,20 %,sigmoid,1.0,0.276
+88,MultiClass Min Max Scalled,80 %,20 %,sigmoid,1.0,0.273
+89,MultiClass Standard Scalled,80 %,20 %,sigmoid,1.0,0.271
+90,BinClass,80 %,20 %,linear,10.0,0.855
+91,BinClass Min Max Scalled,80 %,20 %,linear,10.0,0.8566666666666667
+92,BinClass Standard Scalled,80 %,20 %,linear,10.0,0.855
+93,MultiClass,80 %,20 %,linear,10.0,0.511
+94,MultiClass Min Max Scalled,80 %,20 %,linear,10.0,0.51
+95,MultiClass Standard Scalled,80 %,20 %,linear,10.0,0.512
+96,BinClass,80 %,20 %,poly,10.0,0.9483333333333334
+97,BinClass Min Max Scalled,80 %,20 %,poly,10.0,0.9216666666666666
+98,BinClass Standard Scalled,80 %,20 %,poly,10.0,0.9666666666666667
+99,MultiClass,80 %,20 %,poly,10.0,0.823
+100,MultiClass Min Max Scalled,80 %,20 %,poly,10.0,0.843
+101,MultiClass Standard Scalled,80 %,20 %,poly,10.0,0.791
+102,BinClass,80 %,20 %,sigmoid,10.0,0.72
+103,BinClass Min Max Scalled,80 %,20 %,sigmoid,10.0,0.6016666666666667
+104,BinClass Standard Scalled,80 %,20 %,sigmoid,10.0,0.6966666666666667
+105,MultiClass,80 %,20 %,sigmoid,10.0,0.261
+106,MultiClass Min Max Scalled,80 %,20 %,sigmoid,10.0,0.259
+107,MultiClass Standard Scalled,80 %,20 %,sigmoid,10.0,0.262

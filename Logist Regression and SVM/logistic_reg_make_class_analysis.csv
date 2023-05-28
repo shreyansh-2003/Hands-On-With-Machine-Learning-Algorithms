@@ -1,0 +1,193 @@
+,Dataset,Training Size,Testing Size,Penalty,C,Solver,Accuracy Score
+0,BinClass,65 %,35 %,l1,0.1,liblinear,0.8638095238095238
+1,BinClass Min Max Scalled,65 %,35 %,l1,0.1,liblinear,0.8457142857142858
+2,BinClass Standard Scalled,65 %,35 %,l1,0.1,liblinear,0.8638095238095238
+3,MultiClass,65 %,35 %,l1,0.1,liblinear,0.46114285714285713
+4,MultiClass Min Max Scalled,65 %,35 %,l1,0.1,liblinear,0.4617142857142857
+5,MultiClass Standard Scalled,65 %,35 %,l1,0.1,liblinear,0.46285714285714286
+6,BinClass,65 %,35 %,l1,0.1,saga,0.8647619047619047
+7,BinClass Min Max Scalled,65 %,35 %,l1,0.1,saga,0.839047619047619
+8,BinClass Standard Scalled,65 %,35 %,l1,0.1,saga,0.8628571428571429
+9,MultiClass,65 %,35 %,l1,0.1,saga,0.4674285714285714
+10,MultiClass Min Max Scalled,65 %,35 %,l1,0.1,saga,0.46514285714285714
+11,MultiClass Standard Scalled,65 %,35 %,l1,0.1,saga,0.46285714285714286
+12,BinClass,65 %,35 %,l1,1.0,liblinear,0.8666666666666667
+13,BinClass Min Max Scalled,65 %,35 %,l1,1.0,liblinear,0.8647619047619047
+14,BinClass Standard Scalled,65 %,35 %,l1,1.0,liblinear,0.8666666666666667
+15,MultiClass,65 %,35 %,l1,1.0,liblinear,0.46
+16,MultiClass Min Max Scalled,65 %,35 %,l1,1.0,liblinear,0.4605714285714286
+17,MultiClass Standard Scalled,65 %,35 %,l1,1.0,liblinear,0.45771428571428574
+18,BinClass,65 %,35 %,l1,1.0,saga,0.8666666666666667
+19,BinClass Min Max Scalled,65 %,35 %,l1,1.0,saga,0.8533333333333334
+20,BinClass Standard Scalled,65 %,35 %,l1,1.0,saga,0.8666666666666667
+21,MultiClass,65 %,35 %,l1,1.0,saga,0.46914285714285714
+22,MultiClass Min Max Scalled,65 %,35 %,l1,1.0,saga,0.468
+23,MultiClass Standard Scalled,65 %,35 %,l1,1.0,saga,0.46685714285714286
+24,BinClass,65 %,35 %,l1,10.0,liblinear,0.8676190476190476
+25,BinClass Min Max Scalled,65 %,35 %,l1,10.0,liblinear,0.8657142857142858
+26,BinClass Standard Scalled,65 %,35 %,l1,10.0,liblinear,0.8676190476190476
+27,MultiClass,65 %,35 %,l1,10.0,liblinear,0.45885714285714285
+28,MultiClass Min Max Scalled,65 %,35 %,l1,10.0,liblinear,0.4594285714285714
+29,MultiClass Standard Scalled,65 %,35 %,l1,10.0,liblinear,0.45885714285714285
+30,BinClass,65 %,35 %,l1,10.0,saga,0.8676190476190476
+31,BinClass Min Max Scalled,65 %,35 %,l1,10.0,saga,0.8580952380952381
+32,BinClass Standard Scalled,65 %,35 %,l1,10.0,saga,0.8676190476190476
+33,MultiClass,65 %,35 %,l1,10.0,saga,0.468
+34,MultiClass Min Max Scalled,65 %,35 %,l1,10.0,saga,0.4662857142857143
+35,MultiClass Standard Scalled,65 %,35 %,l1,10.0,saga,0.468
+36,BinClass,65 %,35 %,l1,50.0,liblinear,0.8676190476190476
+37,BinClass Min Max Scalled,65 %,35 %,l1,50.0,liblinear,0.8666666666666667
+38,BinClass Standard Scalled,65 %,35 %,l1,50.0,liblinear,0.8676190476190476
+39,MultiClass,65 %,35 %,l1,50.0,liblinear,0.45885714285714285
+40,MultiClass Min Max Scalled,65 %,35 %,l1,50.0,liblinear,0.45885714285714285
+41,MultiClass Standard Scalled,65 %,35 %,l1,50.0,liblinear,0.45885714285714285
+42,BinClass,65 %,35 %,l1,50.0,saga,0.8676190476190476
+43,BinClass Min Max Scalled,65 %,35 %,l1,50.0,saga,0.8580952380952381
+44,BinClass Standard Scalled,65 %,35 %,l1,50.0,saga,0.8676190476190476
+45,MultiClass,65 %,35 %,l1,50.0,saga,0.468
+46,MultiClass Min Max Scalled,65 %,35 %,l1,50.0,saga,0.4662857142857143
+47,MultiClass Standard Scalled,65 %,35 %,l1,50.0,saga,0.4685714285714286
+48,BinClass,65 %,35 %,l2,0.1,liblinear,0.8676190476190476
+49,BinClass Min Max Scalled,65 %,35 %,l2,0.1,liblinear,0.8142857142857143
+50,BinClass Standard Scalled,65 %,35 %,l2,0.1,liblinear,0.8657142857142858
+51,MultiClass,65 %,35 %,l2,0.1,liblinear,0.45885714285714285
+52,MultiClass Min Max Scalled,65 %,35 %,l2,0.1,liblinear,0.4617142857142857
+53,MultiClass Standard Scalled,65 %,35 %,l2,0.1,liblinear,0.4594285714285714
+54,BinClass,65 %,35 %,l2,0.1,saga,0.8666666666666667
+55,BinClass Min Max Scalled,65 %,35 %,l2,0.1,saga,0.82
+56,BinClass Standard Scalled,65 %,35 %,l2,0.1,saga,0.8685714285714285
+57,MultiClass,65 %,35 %,l2,0.1,saga,0.468
+58,MultiClass Min Max Scalled,65 %,35 %,l2,0.1,saga,0.4674285714285714
+59,MultiClass Standard Scalled,65 %,35 %,l2,0.1,saga,0.4657142857142857
+60,BinClass,65 %,35 %,l2,1.0,liblinear,0.8685714285714285
+61,BinClass Min Max Scalled,65 %,35 %,l2,1.0,liblinear,0.8523809523809524
+62,BinClass Standard Scalled,65 %,35 %,l2,1.0,liblinear,0.8685714285714285
+63,MultiClass,65 %,35 %,l2,1.0,liblinear,0.45885714285714285
+64,MultiClass Min Max Scalled,65 %,35 %,l2,1.0,liblinear,0.45885714285714285
+65,MultiClass Standard Scalled,65 %,35 %,l2,1.0,liblinear,0.45885714285714285
+66,BinClass,65 %,35 %,l2,1.0,saga,0.8676190476190476
+67,BinClass Min Max Scalled,65 %,35 %,l2,1.0,saga,0.8504761904761905
+68,BinClass Standard Scalled,65 %,35 %,l2,1.0,saga,0.8676190476190476
+69,MultiClass,65 %,35 %,l2,1.0,saga,0.468
+70,MultiClass Min Max Scalled,65 %,35 %,l2,1.0,saga,0.4662857142857143
+71,MultiClass Standard Scalled,65 %,35 %,l2,1.0,saga,0.468
+72,BinClass,65 %,35 %,l2,10.0,liblinear,0.8676190476190476
+73,BinClass Min Max Scalled,65 %,35 %,l2,10.0,liblinear,0.8647619047619047
+74,BinClass Standard Scalled,65 %,35 %,l2,10.0,liblinear,0.8676190476190476
+75,MultiClass,65 %,35 %,l2,10.0,liblinear,0.45885714285714285
+76,MultiClass Min Max Scalled,65 %,35 %,l2,10.0,liblinear,0.45885714285714285
+77,MultiClass Standard Scalled,65 %,35 %,l2,10.0,liblinear,0.45885714285714285
+78,BinClass,65 %,35 %,l2,10.0,saga,0.8676190476190476
+79,BinClass Min Max Scalled,65 %,35 %,l2,10.0,saga,0.8571428571428571
+80,BinClass Standard Scalled,65 %,35 %,l2,10.0,saga,0.8676190476190476
+81,MultiClass,65 %,35 %,l2,10.0,saga,0.468
+82,MultiClass Min Max Scalled,65 %,35 %,l2,10.0,saga,0.4662857142857143
+83,MultiClass Standard Scalled,65 %,35 %,l2,10.0,saga,0.4685714285714286
+84,BinClass,65 %,35 %,l2,50.0,liblinear,0.8676190476190476
+85,BinClass Min Max Scalled,65 %,35 %,l2,50.0,liblinear,0.8657142857142858
+86,BinClass Standard Scalled,65 %,35 %,l2,50.0,liblinear,0.8676190476190476
+87,MultiClass,65 %,35 %,l2,50.0,liblinear,0.45885714285714285
+88,MultiClass Min Max Scalled,65 %,35 %,l2,50.0,liblinear,0.45885714285714285
+89,MultiClass Standard Scalled,65 %,35 %,l2,50.0,liblinear,0.45885714285714285
+90,BinClass,65 %,35 %,l2,50.0,saga,0.8676190476190476
+91,BinClass Min Max Scalled,65 %,35 %,l2,50.0,saga,0.8571428571428571
+92,BinClass Standard Scalled,65 %,35 %,l2,50.0,saga,0.8676190476190476
+93,MultiClass,65 %,35 %,l2,50.0,saga,0.468
+94,MultiClass Min Max Scalled,65 %,35 %,l2,50.0,saga,0.4662857142857143
+95,MultiClass Standard Scalled,65 %,35 %,l2,50.0,saga,0.4685714285714286
+96,BinClass,80 %,20 %,l1,0.1,liblinear,0.8533333333333334
+97,BinClass Min Max Scalled,80 %,20 %,l1,0.1,liblinear,0.835
+98,BinClass Standard Scalled,80 %,20 %,l1,0.1,liblinear,0.85
+99,MultiClass,80 %,20 %,l1,0.1,liblinear,0.469
+100,MultiClass Min Max Scalled,80 %,20 %,l1,0.1,liblinear,0.474
+101,MultiClass Standard Scalled,80 %,20 %,l1,0.1,liblinear,0.474
+102,BinClass,80 %,20 %,l1,0.1,saga,0.845
+103,BinClass Min Max Scalled,80 %,20 %,l1,0.1,saga,0.8266666666666667
+104,BinClass Standard Scalled,80 %,20 %,l1,0.1,saga,0.845
+105,MultiClass,80 %,20 %,l1,0.1,saga,0.474
+106,MultiClass Min Max Scalled,80 %,20 %,l1,0.1,saga,0.477
+107,MultiClass Standard Scalled,80 %,20 %,l1,0.1,saga,0.471
+108,BinClass,80 %,20 %,l1,1.0,liblinear,0.8516666666666667
+109,BinClass Min Max Scalled,80 %,20 %,l1,1.0,liblinear,0.8516666666666667
+110,BinClass Standard Scalled,80 %,20 %,l1,1.0,liblinear,0.8516666666666667
+111,MultiClass,80 %,20 %,l1,1.0,liblinear,0.473
+112,MultiClass Min Max Scalled,80 %,20 %,l1,1.0,liblinear,0.473
+113,MultiClass Standard Scalled,80 %,20 %,l1,1.0,liblinear,0.471
+114,BinClass,80 %,20 %,l1,1.0,saga,0.8516666666666667
+115,BinClass Min Max Scalled,80 %,20 %,l1,1.0,saga,0.84
+116,BinClass Standard Scalled,80 %,20 %,l1,1.0,saga,0.8516666666666667
+117,MultiClass,80 %,20 %,l1,1.0,saga,0.477
+118,MultiClass Min Max Scalled,80 %,20 %,l1,1.0,saga,0.475
+119,MultiClass Standard Scalled,80 %,20 %,l1,1.0,saga,0.474
+120,BinClass,80 %,20 %,l1,10.0,liblinear,0.8516666666666667
+121,BinClass Min Max Scalled,80 %,20 %,l1,10.0,liblinear,0.8516666666666667
+122,BinClass Standard Scalled,80 %,20 %,l1,10.0,liblinear,0.8516666666666667
+123,MultiClass,80 %,20 %,l1,10.0,liblinear,0.473
+124,MultiClass Min Max Scalled,80 %,20 %,l1,10.0,liblinear,0.473
+125,MultiClass Standard Scalled,80 %,20 %,l1,10.0,liblinear,0.473
+126,BinClass,80 %,20 %,l1,10.0,saga,0.8516666666666667
+127,BinClass Min Max Scalled,80 %,20 %,l1,10.0,saga,0.8433333333333334
+128,BinClass Standard Scalled,80 %,20 %,l1,10.0,saga,0.8516666666666667
+129,MultiClass,80 %,20 %,l1,10.0,saga,0.476
+130,MultiClass Min Max Scalled,80 %,20 %,l1,10.0,saga,0.474
+131,MultiClass Standard Scalled,80 %,20 %,l1,10.0,saga,0.475
+132,BinClass,80 %,20 %,l1,50.0,liblinear,0.8516666666666667
+133,BinClass Min Max Scalled,80 %,20 %,l1,50.0,liblinear,0.8516666666666667
+134,BinClass Standard Scalled,80 %,20 %,l1,50.0,liblinear,0.8516666666666667
+135,MultiClass,80 %,20 %,l1,50.0,liblinear,0.473
+136,MultiClass Min Max Scalled,80 %,20 %,l1,50.0,liblinear,0.473
+137,MultiClass Standard Scalled,80 %,20 %,l1,50.0,liblinear,0.473
+138,BinClass,80 %,20 %,l1,50.0,saga,0.8516666666666667
+139,BinClass Min Max Scalled,80 %,20 %,l1,50.0,saga,0.8433333333333334
+140,BinClass Standard Scalled,80 %,20 %,l1,50.0,saga,0.8516666666666667
+141,MultiClass,80 %,20 %,l1,50.0,saga,0.476
+142,MultiClass Min Max Scalled,80 %,20 %,l1,50.0,saga,0.474
+143,MultiClass Standard Scalled,80 %,20 %,l1,50.0,saga,0.476
+144,BinClass,80 %,20 %,l2,0.1,liblinear,0.8533333333333334
+145,BinClass Min Max Scalled,80 %,20 %,l2,0.1,liblinear,0.7983333333333333
+146,BinClass Standard Scalled,80 %,20 %,l2,0.1,liblinear,0.8533333333333334
+147,MultiClass,80 %,20 %,l2,0.1,liblinear,0.475
+148,MultiClass Min Max Scalled,80 %,20 %,l2,0.1,liblinear,0.474
+149,MultiClass Standard Scalled,80 %,20 %,l2,0.1,liblinear,0.474
+150,BinClass,80 %,20 %,l2,0.1,saga,0.8533333333333334
+151,BinClass Min Max Scalled,80 %,20 %,l2,0.1,saga,0.8
+152,BinClass Standard Scalled,80 %,20 %,l2,0.1,saga,0.8516666666666667
+153,MultiClass,80 %,20 %,l2,0.1,saga,0.476
+154,MultiClass Min Max Scalled,80 %,20 %,l2,0.1,saga,0.476
+155,MultiClass Standard Scalled,80 %,20 %,l2,0.1,saga,0.469
+156,BinClass,80 %,20 %,l2,1.0,liblinear,0.8516666666666667
+157,BinClass Min Max Scalled,80 %,20 %,l2,1.0,liblinear,0.8283333333333334
+158,BinClass Standard Scalled,80 %,20 %,l2,1.0,liblinear,0.8516666666666667
+159,MultiClass,80 %,20 %,l2,1.0,liblinear,0.473
+160,MultiClass Min Max Scalled,80 %,20 %,l2,1.0,liblinear,0.473
+161,MultiClass Standard Scalled,80 %,20 %,l2,1.0,liblinear,0.473
+162,BinClass,80 %,20 %,l2,1.0,saga,0.8516666666666667
+163,BinClass Min Max Scalled,80 %,20 %,l2,1.0,saga,0.8283333333333334
+164,BinClass Standard Scalled,80 %,20 %,l2,1.0,saga,0.8516666666666667
+165,MultiClass,80 %,20 %,l2,1.0,saga,0.476
+166,MultiClass Min Max Scalled,80 %,20 %,l2,1.0,saga,0.474
+167,MultiClass Standard Scalled,80 %,20 %,l2,1.0,saga,0.475
+168,BinClass,80 %,20 %,l2,10.0,liblinear,0.8516666666666667
+169,BinClass Min Max Scalled,80 %,20 %,l2,10.0,liblinear,0.8533333333333334
+170,BinClass Standard Scalled,80 %,20 %,l2,10.0,liblinear,0.8516666666666667
+171,MultiClass,80 %,20 %,l2,10.0,liblinear,0.473
+172,MultiClass Min Max Scalled,80 %,20 %,l2,10.0,liblinear,0.473
+173,MultiClass Standard Scalled,80 %,20 %,l2,10.0,liblinear,0.473
+174,BinClass,80 %,20 %,l2,10.0,saga,0.8516666666666667
+175,BinClass Min Max Scalled,80 %,20 %,l2,10.0,saga,0.8433333333333334
+176,BinClass Standard Scalled,80 %,20 %,l2,10.0,saga,0.8516666666666667
+177,MultiClass,80 %,20 %,l2,10.0,saga,0.476
+178,MultiClass Min Max Scalled,80 %,20 %,l2,10.0,saga,0.474
+179,MultiClass Standard Scalled,80 %,20 %,l2,10.0,saga,0.476
+180,BinClass,80 %,20 %,l2,50.0,liblinear,0.8516666666666667
+181,BinClass Min Max Scalled,80 %,20 %,l2,50.0,liblinear,0.8516666666666667
+182,BinClass Standard Scalled,80 %,20 %,l2,50.0,liblinear,0.8516666666666667
+183,MultiClass,80 %,20 %,l2,50.0,liblinear,0.473
+184,MultiClass Min Max Scalled,80 %,20 %,l2,50.0,liblinear,0.473
+185,MultiClass Standard Scalled,80 %,20 %,l2,50.0,liblinear,0.473
+186,BinClass,80 %,20 %,l2,50.0,saga,0.8516666666666667
+187,BinClass Min Max Scalled,80 %,20 %,l2,50.0,saga,0.8433333333333334
+188,BinClass Standard Scalled,80 %,20 %,l2,50.0,saga,0.8516666666666667
+189,MultiClass,80 %,20 %,l2,50.0,saga,0.476
+190,MultiClass Min Max Scalled,80 %,20 %,l2,50.0,saga,0.474
+191,MultiClass Standard Scalled,80 %,20 %,l2,50.0,saga,0.476
