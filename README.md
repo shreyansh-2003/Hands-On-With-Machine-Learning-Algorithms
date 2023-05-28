@@ -5,7 +5,7 @@
 ---
 
 ># Overview
-This repository contains a collection of labs that explore various machine learning algorithms and techniques. Each lab focuses on a specific topic and provides detailed explanations, code examples, and analysis. The labs cover a wide range of topics, including clustering, classification and regression analysis, data preprocessing, customer churn analysis, feature engineering, decision trees, linear gradient descent, and evaluation metrics.
+This repository contains a collection of labs that explore various machine learning algorithms and techniques. Each lab focuses on a specific topic and provides detailed explanations, code examples, and analysis. The labs cover clustering, classification and regression algos, hyperparameter tuning, data-preprocessing and various evaluation metrics.
 
 __Coverage__
 - The algorithms covered within the repository are Linear Regression OLS, Linear Regression with Gradient Descent, Logistic Regression, Decision Tree, Random Forest, SVM (Support Vector Machines), KMeans Clustering, Hierarchichal Clustering (AGNES).
