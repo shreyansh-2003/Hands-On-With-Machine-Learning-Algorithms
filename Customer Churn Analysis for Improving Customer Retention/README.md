@@ -1,4 +1,6 @@
 # Customer Churn Analysis for Improving Customer Retention
+<img width="1308" alt="ss_main_Customer Churn Analysis for Improving Customer Retention" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/5b621517-462b-446b-8863-4191f9d505c8">
+
 ---
 __Author Name : Shreyansh Padarha__<br>
 __Email : mailto:shreyansh.padarha@hotmail.com__
