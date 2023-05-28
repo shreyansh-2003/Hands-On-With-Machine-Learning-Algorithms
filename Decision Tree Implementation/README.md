@@ -1,4 +1,4 @@
-# Implementinh Decision Trees
+# Implementing Decision Trees
 
 ---
 __Author Name : Shreyansh Padarha__<br>
