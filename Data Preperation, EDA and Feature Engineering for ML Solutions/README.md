@@ -1,5 +1,9 @@
 # Introductory EDA & Feature Engineering for ML Solutions
 
+---
+**Author Name :** Shreyansh Padarha<br>
+**Email : mailto:shreyansh.padarha@hotmail.com**
+---
 
 > ## Introduction 
 
