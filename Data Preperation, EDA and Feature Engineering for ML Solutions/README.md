@@ -1,5 +1,7 @@
 # Introductory EDA & Feature Engineering for ML Solutions
 
+<img width="1387" alt="ss_main_Data Preperation, EDA and Feature Engineering for ML Solutions" src="https://github.com/shreyansh-2003/Hands-On-With-Machine-Learning-Algorithms/assets/105413094/d4aaaa11-4022-4041-9dff-5d5ac1433bb5">
+
 ---
 **Author Name :** Shreyansh Padarha<br>
 **Email : mailto:shreyansh.padarha@hotmail.com**
